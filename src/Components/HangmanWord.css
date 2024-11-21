@@ -1,0 +1,19 @@
+.flex-container {
+	display: flex;
+	gap: .25em;
+	font-size: 6rem;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-family: monospace;
+}
+.find-letter {
+	border-bottom: .1em solid black;
+}
+
+.visible {
+	visibility: visible;
+}
+
+.hidden {
+	visibility: hidden;
+}
